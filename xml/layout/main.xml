@@ -26,11 +26,27 @@ _:text="unknown"
 
 </LinearLayout>
 
+<View
+_:id="@+id/upperMarginForButton"
+_:layout_height="match_parent"
+_:layout_width="match_parent"
+_:layout_weight="1"
+/>
+
 <Button
 _:id="@+id/buttonForMutingMicrophone"
 _:layout_height="wrap_content"
 _:layout_width="200dp"
+_:layout_gravity="center"
 _:text="mute"
 />
+
+<View
+_:id="@+id/lowerMarginForButton"
+_:layout_height="match_parent"
+_:layout_width="match_parent"
+_:layout_weight="1"
+/>
+
 
 </LinearLayout>
