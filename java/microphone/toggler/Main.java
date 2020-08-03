@@ -1,4 +1,4 @@
-package microphone.toggle;
+package microphone.toggler;
 
 import android.app.Activity;
 import android.content.BroadcastReceiver;
@@ -12,7 +12,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import microphone.toggle.R;
+import microphone.toggler.R;
 
 public class Main extends Activity {
 
