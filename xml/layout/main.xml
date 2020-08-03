@@ -14,7 +14,7 @@ _:orientation="horizontal"
 <TextView
 _:layout_height="wrap_content"
 _:layout_width="wrap_content"
-_:text="The microphone status is "
+_:text="The microphone is currently "
 />
 
 <TextView
